@@ -52,11 +52,11 @@ body {
     color: #444;
     padding: 20px 0 20px 0;
 }
-.features .row ul:nth-child(3) h3 {
-    margin-left: 20px;
-}
 .features .row ul:first-child h3 {
     margin-right: 15px;
+}
+.features .row ul:nth-child(3) h3 {
+    margin-left: 20px;
 }
 .features .row li {
     margin-bottom: -40px;
