@@ -68,14 +68,12 @@ body {
     border: 2px solid #eee;
     transition: 0.5s;
 }
-.features .row ul:nth-child(3) p {
-    padding-right: 30px;
-}
 .features .row ul:first-child p {
     border-right: none;
 }
 .features .row ul:nth-child(3) p {
     border-left: none;
+    padding-right: 30px;
 }
 .features li:hover p {
     border-color: #007bea;
